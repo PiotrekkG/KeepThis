@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+
+body {
+	background-color: #DDD;
+}
+
+body > div {
+	margin-top: 25px !important;
+}
+body > div#nav {
+	margin-top: 0 !important;
+}
+#topDiv {
+	margin-top: 75px !important;
+}
+.mainElement {
+	background-color:#f1f1f1 !important;
+}
+
+
+#nav {
+	font-family: Helvetica, 'Helvetica Neue', 'Lato', Arial, sans-serif;
+	font-variant:0;
+	background: #171717;
+}
+#nav .ui .menu .item, #nav .header.item {
+	color:#d5d5d5;
+}
+
+#logo {
+	font-size:1.2em;
+}
+#logo small {
+	font-size:0.7em;
+	margin-left:5px;
+}
+#logo img {
+	margin-right:15px;
+	width:35px;
+	height:35px;
+	border-radius: 3px;
+}

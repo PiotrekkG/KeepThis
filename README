@@ -1,0 +1,24 @@
+KeepThis
+[PL] System zachowywania linków i zarz¹dzanie nimi.
+Posiada udogodnienia pozwalaj¹ce na:
+• zapis tytu³u zapisywanej strony (ze œrodka znaczników <title> podanego linku),
+• ocenê linka w skali 1-5 oraz dodanie go do ulubionych,
+• zliczenia przejœcia w link (naliczane s¹ one poprzez klikniêcia w link)
+• dodawanie linków bez kopiowania (poprzez dodanie do paska zak³adek "Zak³adki" pozwalaj¹cej na natychmiastow¹ obs³ugê),
+• poprzez kod QR wyœwietlony statycznie w przegl¹darce odwiedzanie linków na telefonach (i innych urz¹dzeniach, które potrafi¹ skanowaæ wczeœniej wspomniane kody).
+
+Projekt pokazowy.
+Zakaz kopiowania ca³oœci, b¹dŸ czêœci programu.
+
+Licencja zawarta w linku poni¿ej, b¹dŸ w pliku License.txt.
+https://tldrlegal.com/license/simple-non-code-license-(sncl)
+
+--------------------
+KeepThis
+[EN] Links management system.
+
+Demonstration project.
+Copying of the whole or part of the program is forbidden.
+
+The license listed in the License.txt file or line below.
+https://tldrlegal.com/license/simple-non-code-license-(sncl)
