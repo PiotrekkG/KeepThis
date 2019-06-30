@@ -1,16 +1,16 @@
 KeepThis
-[PL] System zachowywania linków i zarz¹dzanie nimi.
-Posiada udogodnienia pozwalaj¹ce na:
-• zapis tytu³u zapisywanej strony (ze œrodka znaczników <title> podanego linku),
-• ocenê linka w skali 1-5 oraz dodanie go do ulubionych,
-• zliczenia przejœcia w link (naliczane s¹ one poprzez klikniêcia w link)
-• dodawanie linków bez kopiowania (poprzez dodanie do paska zak³adek "Zak³adki" pozwalaj¹cej na natychmiastow¹ obs³ugê),
-• poprzez kod QR wyœwietlony statycznie w przegl¹darce odwiedzanie linków na telefonach (i innych urz¹dzeniach, które potrafi¹ skanowaæ wczeœniej wspomniane kody).
+[PL] System zachowywania linkÃ³w i zarzÄ…dzanie nimi.
+Posiada udogodnienia pozwalajÄ…ce na:
+â€¢ zapis tytuÅ‚u zapisywanej strony (ze Å›rodka znacznikÃ³w <title> podanego linku),
+â€¢ ocenÄ™ linka w skali 1-5 oraz dodanie go do ulubionych,
+â€¢ zliczenia przejÅ›cia w link (naliczane sÄ… one poprzez klikniÄ™cia w link)
+â€¢ dodawanie linkÃ³w bez kopiowania (poprzez dodanie do paska zakÅ‚adek "ZakÅ‚adki" pozwalajÄ…cej na natychmiastowÄ… obsÅ‚ugÄ™),
+â€¢ wyÅ›wietlony w przeglÄ…darce na komputerze kod QR pozwala na odwiedzanie linkÃ³w na telefonach (i innych urzÄ…dzeniach, ktÃ³re potrafiÄ… skanowaÄ‡ wspomniany kod).
 
-Projekt pokazowy.
-Zakaz kopiowania ca³oœci, b¹dŸ czêœci programu.
+Projekt pokazowy, poczÄ…tkowy.
+Nie zawiera najnowszych aktualizacji - najnowszÄ… wersjÄ™, funkcjonalnÄ…, z wieloma poprawkami moÅ¼na przetestowaÄ‡ na Å¼ywo pod adresem: https://keepthis.tremle.pl
 
-Licencja zawarta w linku poni¿ej, b¹dŸ w pliku License.txt.
+Licencja zawarta w linku poniÅ¼ej, bÄ…dÅº w pliku License.txt.
 https://tldrlegal.com/license/simple-non-code-license-(sncl)
 
 --------------------
@@ -18,7 +18,6 @@ KeepThis
 [EN] Links management system.
 
 Demonstration project.
-Copying of the whole or part of the program is forbidden.
 
 The license listed in the License.txt file or line below.
 https://tldrlegal.com/license/simple-non-code-license-(sncl)
